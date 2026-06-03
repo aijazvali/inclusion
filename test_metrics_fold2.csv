@@ -1,0 +1,2 @@
+accuracy,precision_inclusion,recall_inclusion,specificity_non_inclusion,f1_inclusion,balanced_accuracy,tp,tn,fp,fn,loss,fold,test_heat,best_epoch,best_val_balanced_accuracy,mean,std,status
+0.9325301204819277,0.9671052631578947,0.935847208619001,0.9246813441483198,0.9512195121951218,0.9302642763836604,1911,798,65,131,0.18650896907519557,fold_test_heat_2,2,14,0.9356301718949823,0.7636939886368103,0.10226401717972068,trained
