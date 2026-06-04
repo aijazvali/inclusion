@@ -578,4 +578,4 @@ with gr.Blocks(title="SEM Inclusion Type Classifier") as demo:
         ],
     )
 
-demo.launch()
+demo.launch(share="true")
